@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Di sản khoa học">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#283618"/><stop offset="1" stop-color="#0b132b"/></linearGradient></defs>
+<rect width="900" height="560" rx="28" fill="url(#g)"/>
+<circle cx="740" cy="120" r="150" fill="#dda15e" opacity=".12"/>
+<circle cx="130" cy="470" r="210" fill="#dda15e" opacity=".08"/>
+<path d="M0 400 Q220 320 400 410 T900 350 V560 H0Z" fill="#dda15e" opacity=".13"/>
+<g fill="none" stroke="#dda15e" stroke-width="3" opacity=".7"><circle cx="700" cy="260" r="90"/><ellipse cx="700" cy="260" rx="130" ry="44" transform="rotate(-35 700 260)"/><ellipse cx="700" cy="260" rx="130" ry="44" transform="rotate(35 700 260)"/></g>
+<g transform="translate(155 100)">
+<path d="M110 305 L120 180 Q135 115 190 115 Q245 115 260 180 L270 305Z" fill="#d8c3a5"/>
+<path d="M142 145 Q150 70 198 78 Q245 85 244 153 L230 190 L156 190Z" fill="#292524"/>
+<path d="M155 190 Q195 210 231 190 L241 245 Q197 280 145 245Z" fill="#e7d5bd"/>
+<path d="M145 210 L170 220 L195 214 L220 221 L241 210 L232 247 Q195 270 154 247Z" fill="#f8f5f0"/>
+<path d="M120 305 L145 255 L198 290 L245 255 L270 305Z" fill="#dda15e"/>
+<path d="M175 290 L198 320 L220 290" fill="none" stroke="#f8f5f0" stroke-width="5"/>
+</g>
+<text x="500" y="430" fill="#ffffff" font-family="Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="3">LEGACY</text>
+<text x="502" y="470" fill="#dda15e" font-family="Arial, sans-serif" font-size="20" letter-spacing="4">SCIENCE · HISTORY · ETHICS</text>
+<text x="42" y="48" fill="#ffffff" opacity=".65" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">OPPENHEIMER PROJECT · VISUAL STUDY</text>
+</svg>
